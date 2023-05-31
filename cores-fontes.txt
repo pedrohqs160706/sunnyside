@@ -7,7 +7,6 @@ white: #ffffff
 graphic-text: #25564b
 photography-text: #19536b
 footer: #458c7e
-background: #FFFBFB
 
 Font
 Barlow
